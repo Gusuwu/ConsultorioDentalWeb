@@ -1,9 +1,9 @@
 <?php
 
-$server = 'localhost:3307';
-$username = 'root';
+$server = 'server';
+$username = 'username';
 $password = '';
-$database = 'consultorio_login_db';
+$database = 'database';
 
 
 #try {
